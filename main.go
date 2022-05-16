@@ -3,7 +3,7 @@ package main
 import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"
-	"github.com/ClashrAuto/clash-auto/ui"
+	"github.com/ClashrAuto/clash-auto/gui"
 )
 
 func main() {
@@ -22,6 +22,6 @@ func main() {
 
 	data := []string{"a", "string", "list"}
 
-	w.SetContent(ui.Desktop(data))
+	w.SetContent(gui.Desktop(data))
 	w.ShowAndRun()
 }
