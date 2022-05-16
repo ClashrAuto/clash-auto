@@ -3,7 +3,7 @@ package main
 import (
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"
-	"github.com/ClashrAuto/clash-auto/ui/window"
+	"github.com/ClashrAuto/clash-auto/ui"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module clash-auto
+module github.com/ClashrAuto/clash-auto
 
 go 1.17
 
