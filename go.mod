@@ -1,6 +1,6 @@
 module github.com/ClashrAuto/clash-auto
 
-go 1.17
+go 1.18
 
 require fyne.io/fyne/v2 v2.1.4
 
